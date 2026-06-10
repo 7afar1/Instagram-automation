@@ -40,7 +40,6 @@ This project is a complete automation toolkit for Instagram, built using **Pytho
 - Requests
 - ChromeDriver (for browser automation)
 
-
 ---
 
 ## ⚠️ Disclaimer
